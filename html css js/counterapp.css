@@ -1,0 +1,54 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.oman{
+	background-color:darkgrey;
+	padding-top:0;
+	color:white;
+	width: inherit;
+    height: inherit;
+    margin: 0;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:white;
+    font-weight:bold;
+    width:200px;
+    margin-bottom:5px;
+    border-radius:5px;
+}
+#increment-btn{
+    background:darkred;
+}
+#save-btn{
+	background:green;
+}
+
+#total{
+    background:blue;
+}
+#refresh{
+	background:purple;
+}
+
+body{
+	text-align:center;
+}
+
+p{
+	color:black;
+}
+
+h1{
+	color:black;
+	font-size:20;
+	font-family:arial;
+}
+
